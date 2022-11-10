@@ -3,7 +3,7 @@
 ## Contents
 1. [Table of Contents](##content)
 1. [Task](#task)
-1. [Console application](#console application)
+1. [Console application](#console-application)
 1. [Division of duties](#division-of-duties)
 1. [Optional interface](#additional-interface)
 1. [Console application](#console-application-1)
