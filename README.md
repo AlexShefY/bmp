@@ -4,10 +4,10 @@
 1. [Table of Contents](##content)
 1. [Task](#task)
 1. [Console application](#console-application)
-1. [Division of duties](#division-of-duties)
+1. [Divide responsibilities](#divide-responsibilities)
 1. [Optional interface](#additional-interface)
 1. [Console application](#console-application-1)
-1. [Division of duties](#division-of-duties-1)
+1. [Divide responsibilities](#divide-responsibilities-1)
 
 ## Task.
 An application `./hw-01_bmp` that cuts a rectangle out of a BMP file with an image,
@@ -97,6 +97,6 @@ Parameters used:
 This leaves all the other requirements for correctness: the `crop-rotate` command, checking arguments
 and others.
 
-### Separation of duties
+### Divide responsibilities
 The functions for steganography are implemented in separate files `stego.h`/`stego.c`.
 
