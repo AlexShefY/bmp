@@ -5,7 +5,7 @@
 1. [Task](#task)
 1. [Console application](#console-application)
 1. [Divide responsibilities](#divide-responsibilities)
-1. [Optional interface](#additional-interface)
+1. [Optional interface](#optional-interface)
 1. [Console application](#console-application-1)
 1. [Divide responsibilities](#divide-responsibilities-1)
 
