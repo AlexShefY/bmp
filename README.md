@@ -100,5 +100,3 @@ and others.
 ### Separation of duties
 The functions for steganography are implemented in separate files `stego.h`/`stego.c`.
 
-
-Translated with www.DeepL.com/Translator (free version)
